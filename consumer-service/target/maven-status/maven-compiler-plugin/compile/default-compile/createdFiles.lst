@@ -1,0 +1,3 @@
+com\eci\arcn\consumer\config\RabbitMQConfig.class
+com\eci\arcn\consumer\ConsumerServiceApplication.class
+com\eci\arcn\consumer\listener\MessageListener.class
