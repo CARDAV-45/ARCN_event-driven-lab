@@ -1,6 +1,6 @@
 {
     "name": "Java Spring Event Lab",
-    "image": "mcr.microsoft.com/devcontainers/java:1-21-bullseye",
+    "image": "mcr.microsoft.com/devcontainers/java:1-17-jammy",
 
     "features": {
         "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {},
